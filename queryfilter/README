@@ -1,0 +1,2 @@
+query.length 是由 trio-onestep 工程下 bin/test_charseg_thread 生成的。
+经过一点小修改，借用了里边的切句逻辑，计算切 char 的个数作为句子的长度。
